@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "414386364412",
+    "firebase_url": "https://magic-house-be354.firebaseio.com",
+    "project_id": "magic-house-be354",
+    "storage_bucket": "magic-house-be354.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414386364412:android:492f59659e689bb0921c79",
+        "android_client_info": {
+          "package_name": "dev.crew.magichouse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414386364412-rks2ksb0i1vnqihrh2tvmul77jedc9ir.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dev.crew.magichouse",
+            "certificate_hash": "a3054396e6e9a6248f9a40e92c380a8d1264f8c4"
+          }
+        },
+        {
+          "client_id": "414386364412-docasktipdn52foc78mg9rn1j6k3mi2f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-Ba-FhxNYJzA3y6NxsCSjTW4ueRqgGFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "414386364412-docasktipdn52foc78mg9rn1j6k3mi2f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
